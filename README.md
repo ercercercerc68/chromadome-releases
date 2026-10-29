@@ -1,5 +1,7 @@
 # ChromaDome (beta)
 
+<img src="icon.png" width="128" alt="ChromaDome">
+
 Paint the light dome of your Cinema 4D scene. Drag lights around a flat map of the sphere, and the dome follows live in Redshift, Arnold (C4DtoA) or the Standard renderer. Whatever you put on the map is what your chrome, glass and glossy surfaces reflect.
 
 ## Install
